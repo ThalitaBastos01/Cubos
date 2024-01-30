@@ -1,3 +1,7 @@
-const primeiroNome = "josé";
+let primeiroNome = "josé";
 
 console.log(primeiroNome);
+
+primeiroNome = "pedro";
+
+console.log(primeiroNome)
