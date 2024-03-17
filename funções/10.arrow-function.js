@@ -1,12 +1,12 @@
 //declaração tradicional 
-function soma(x, y) {
+//function soma(x, y) {
     //código
-    const resultado = x + y;
-    return resultado;
-}
+  //  const resultado = x + y;
+    //return resultado;
+//}
 
  //declaração com arrow-function
- const soma = (x, y) => {
+const soma = (x, y) => {
     //código
     const resultado = x + y;
     return resultado;
